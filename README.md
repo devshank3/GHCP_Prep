@@ -1,17 +1,8 @@
 # Github copilot prep
 Github copilot Certification Prep materials 
 
----
-### Code Island 
-As part of a challenge implemented a simple console game developed using spectre.console
-took around two hours to complete. 
+## Links 
 
----
-![alt text](Code_Island_Console_Game/assets/Code_Island_Game.png)
----
-![alt text](Code_Island_Console_Game/assets/Code_Island_Game1.png)
----
-![alt text](Code_Island_Console_Game/assets/Code_Island_Game2.png)
----
-![alt text](Code_Island_Console_Game/assets/Code_Island_Game3.png)
----
+- [Microsoft Certified: GitHub Copilot](https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/?practice-assessment-type=certification)
+- [GH-300 Study Guide: GitHub Copilot Associate](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-300)
+- [GitHub Copilot Practice Assessment](https://learn.microsoft.com/en-us/credentials/certifications/github-copilot/practice/assessment?assessment-type=practice&assessmentId=218035372&practice-assessment-type=certification)
